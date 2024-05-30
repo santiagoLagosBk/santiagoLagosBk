@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @santiagoLagosBk
+- 👋 Hi, I’m @santiagoLagosBk Software developer
+  
 - 👀 I’m interested in data science and change the world with helps of software
+  
 - 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on some project that use tecnologics as Pandas, scikit-learn, Numpy, Pyspark, TensorFlow
+  
+- 💞️ I’m looking to collaborate on some project that use tecnologics as Pandas, scikit-learn, Numpy, Pyspark, TensorFlow, FastAPI
+  
 - 📫 How to reach me i´m a person that never stop learning
 
 <!---
