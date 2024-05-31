@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in data science and change the world with helps of software
   
-- 🌱 I’m currently learning python and django
+- 🌱 I’m currently learning scikit-learn, pytorch, TensorFlow.
   
 - 💞️ I’m looking to collaborate on some project that use tecnologics as Pandas, scikit-learn, Numpy, Pyspark, TensorFlow, FastAPI
   
